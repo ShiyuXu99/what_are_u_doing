@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ShiyuXu99/what_are_u_doing.git/static/css/main.f855e6bc.css",
-    "main.js": "/ShiyuXu99/what_are_u_doing.git/static/js/main.814ee7ec.js",
-    "static/js/592.f2b46e4d.chunk.js": "/ShiyuXu99/what_are_u_doing.git/static/js/592.f2b46e4d.chunk.js",
-    "static/media/logo.svg": "/ShiyuXu99/what_are_u_doing.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ShiyuXu99/what_are_u_doing.git/index.html",
-    "main.f855e6bc.css.map": "/ShiyuXu99/what_are_u_doing.git/static/css/main.f855e6bc.css.map",
-    "main.814ee7ec.js.map": "/ShiyuXu99/what_are_u_doing.git/static/js/main.814ee7ec.js.map",
-    "592.f2b46e4d.chunk.js.map": "/ShiyuXu99/what_are_u_doing.git/static/js/592.f2b46e4d.chunk.js.map"
+    "main.css": "/what_are_u_doing/static/css/main.f855e6bc.css",
+    "main.js": "/what_are_u_doing/static/js/main.1d38bc84.js",
+    "static/js/592.f2b46e4d.chunk.js": "/what_are_u_doing/static/js/592.f2b46e4d.chunk.js",
+    "static/media/logo.svg": "/what_are_u_doing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/what_are_u_doing/index.html",
+    "main.f855e6bc.css.map": "/what_are_u_doing/static/css/main.f855e6bc.css.map",
+    "main.1d38bc84.js.map": "/what_are_u_doing/static/js/main.1d38bc84.js.map",
+    "592.f2b46e4d.chunk.js.map": "/what_are_u_doing/static/js/592.f2b46e4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.814ee7ec.js"
+    "static/js/main.1d38bc84.js"
   ]
 }
